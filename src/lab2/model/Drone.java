@@ -2,10 +2,10 @@ package lab2.model;
 
 import lab2.annotation.Repeat;
 
-public class Robot {
+public class Drone {
     private final String name;
 
-    public Robot(String name) {
+    public Drone(String name) {
         this.name = name;
     }
 
